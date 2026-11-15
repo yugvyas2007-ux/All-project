@@ -1,3 +1,10 @@
-A basic Password Strength Checker program build using HTML,CSS and JavaScript.
-So when you type your personalized password in it ,it tells you whether the password is short ,weak or a strong one. 
-This help the user to try various combinations and can use in their daily tasks!.
+# Password Strength Checker
+
+A simple password strength checker built with HTML, CSS, and JavaScript. It evaluates the password you enter and indicates whether it is short, weak, or strong.
+
+The application lets users experiment with different password combinations and see how they affect the strength rating.
+
+## Technologies Used:-
+- HTML
+- CSS
+- JavaScript
